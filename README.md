@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @shikang
+# Hi, I’m Shikang 👋 
 
 📍 **Cambridge**
 
