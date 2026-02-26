@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @shikang
-- 👀 I’m interested in the area of computational physics and plasma physics
-- 🌱 I've finished my BA in Natrual Sciences(Phy) and MPhil in Scientific Computing at the Univerisity of Cambridge
-- 📍 Currently looking into the start-up space
-- 💞️ I’m looking to collaborate on any projects! 
-- 📫 Reach me by email sn604@cam.ac.uk
+# 👋 Hi, I’m @shikang
 
-<!---
-shikang61/shikang61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📍 **Cambridge**
+
+I try to replicate popular ideas using vibe-coding.
+
+## Current Projects
+- 💼 **[JobMatch.AI](https://github.com/shikang61/JobMatch.ai)** - replicating Jack&Jills
+
+## GitHub Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/shikang61)
+
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/-Shikang_Ni-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ni-shikang/)
+
+<details>
+<summary>Random Facts</summary>
+-
+
+</details>
