@@ -2,7 +2,7 @@
 
 📍 **Cambridge**
 
-I try to replicate popular ideas using vibe-coding.
+I try to replicate popular ideas by vibing.
 
 ## Current Projects
 - 💼 **[JobMatch.AI](https://github.com/shikang61/JobMatch.ai)** - replicating Jack&Jills
