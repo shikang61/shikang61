@@ -4,7 +4,7 @@
 
 I try to replicate popular ideas by vibing.
 
-## Current Projects
+## Completed Projects
 - 💼 **[JobMatch.AI](https://github.com/shikang61/JobMatch.ai)** - all-in-one job search and customised job preparation platform
 - 🍎 **[LitFeed](https://github.com/shikang61/LitFeed)** - automated literature updates from arXiv via Telegram which learns over time
 - 🔖 **[LitRev](https://github.com/shikang61/LitRevSK)** - personalised literature review dashboard synced with Zotero with graph organisation
