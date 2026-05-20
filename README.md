@@ -7,6 +7,7 @@ I try to replicate popular ideas by vibing.
 ## Current Projects
 - 💼 **[JobMatch.AI](https://github.com/shikang61/JobMatch.ai)** - replicating Jack&Jills
 - 🍎 **[LitFeed](https://github.com/shikang61/LitFeed)** - automated literature updates from arXiv via Telegram which learns over time
+- 🔖 **[LitRev](https://github.com/shikang61/LitRevSK)** - personalised literature review dashboard synced with Zotero with graph organisation
 
 ## GitHub Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/shikang61)
