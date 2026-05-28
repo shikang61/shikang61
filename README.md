@@ -7,7 +7,8 @@ I try to replicate popular ideas by vibing.
 ## Completed Projects
 - 💼 **[JobMatch.AI](https://github.com/shikang61/JobMatch.ai)** - all-in-one job search and customised job preparation platform
 - 🍎 **[LitFeed](https://github.com/shikang61/LitFeed)** - automated literature updates from arXiv via Telegram which learns your preferences over time
-- 🔖 **[LitRev](https://github.com/shikang61/LitRevSK)** - AI-powered workflow for literature review with personalised graph organisation and direct sync with Zotero 
+- 🔖 **[LitRev](https://github.com/shikang61/LitRevSK)** - AI-powered workflow for literature review with personalised graph organisation and direct sync with Zotero
+- 📚 **[LitRead](https://github.com/shikang61/LitRead)** - AI-powered digestion of academic literature to minimise cognitive load and maximise serendipity
 
 ## GitHub Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/shikang61)
